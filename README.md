@@ -2,7 +2,7 @@
 Intended as an example implementation of persistence for Yeti CMS. Uses PHP &amp; a hard-coded password.
 
 ## Requirements
-- PHP 5
+- PHP 5+
 - Filesystem access to your website
 
 ## Installation
