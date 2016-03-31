@@ -24,6 +24,12 @@ This module is designed to work with the`Yeti CMS` frontend (https://github.com/
 ## Like it? Want to do something better?
 Pull requests / forks welcome!
 
+## License
+For now, Yeti CMS is under a Creative Commons license. A less-restrictive license will be considered in the future, as the project matures.
+
+*Yeti images and example template on `gh-pages` branch are copyright by their respective authors and used under license. These contents are not subject to the above license and should not be reused or re-distributed without permission.*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 ## Disclaimer
 THE PROGRAM IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY. IT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
