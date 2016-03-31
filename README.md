@@ -1,10 +1,15 @@
 # Yeti-Simple-Persistence-Layer
 Intended as an example implementation of persistence for Yeti CMS. Uses PHP &amp; a hard-coded password.
 
+## Requirements
+- PHP 5
+- Filesystem access to your website
+
 ## Installation
 1. Open `write-file.php` and change the password (on the fourth line).
 2. Upload to the root of your webserver (so that subdomain.yourdomain.com/write-files.php is accessible).
 3. Open `yeti-cms/loader.js` and add the module by appending `loadScript("/yeti-cms/simple-persistence-adapter.mod.js");` (or include it in your webpage as a `<script src="/yeti-cms/simple-persistence-adapter.mod.js"></script>`. SCRIPT tag.
+4. Ensure the directory your site is in has write access. `chmod -R 777 my-website-directory` should do the trick.
 
 That's it! Now, when you press `Publish`, you will be prompted for a password, and if successful, your changes will be published.
 
