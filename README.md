@@ -16,6 +16,11 @@ That's it! Now, when you press `Publish`, you will be prompted for a password, a
 ## Yeti CMS
 This module is designed to work with the`Yeti CMS` frontend (https://github.com/Yeti-CMS/yeti-frontend).
 
+## Known Issues
+- Not a very robust solution.
+- Not very secure (a single password). Especially true if you're not using HTTPS.
+- `Page Published!` is displayed after each successful AJAX request, even if you enter the wrong password and it is *not* actually published.
+
 ## Like it? Want to do something better?
 Pull requests / forks welcome!
 
