@@ -1,7 +1,7 @@
 <?php
 
     // Change this password to secure your site
-    $password = "simplePassword1";
+    $password = "password";
     
     // POST Request
     $pass = $_POST['password'];
